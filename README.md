@@ -1,2 +1,2 @@
-# edu-credential-nft
-NFT-based academic certificate system built on ethereum blockchain
+MySmartContracts
+Just a Junior Dev trying to breakout into the Sol Devs environment
